@@ -26,13 +26,10 @@ Creating a table
 #### coolest places on the earth
 
 |name of the city        | important location        |time to spent|
-
+|------------------------|---------------------------|-------------|
 |Newyork                 |Atlantic Ocean             |13hours      |
-
 |Washington, DC          |Potomac River              |15hours      |
-
 |Boston                  |Massachusetts              |18hours      |
-
 |Jackson                 |Mississippi                |24hours      |
 
 ---
