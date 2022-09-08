@@ -19,7 +19,7 @@ Follow MO-148 N and IA-148 N to Pollock Blvd in Bedford
 * Burlington Northern Museum
 
 
-![Aboutme.md](Aboutme)
+[My image](image.jpg)
 
 ---
 Creating a table
