@@ -39,3 +39,18 @@ Creating a table
 Quote section
 > Parting is such sweet sorrow *Romeo*
 > What, drawn, and talk of peace? *Romeo*
+
+---
+Code fencing
+> Closing </div> Tag Is Being Outputted To Early In A While Loop
+
+<div class='board-component'>
+    <h2>The Board Name</h2>
+    <img src="path/to/image1.jpg">
+</div> <!-- the component closes here after the 1st image, instead of after the 4th image -->
+<img src="path/to/image2.jpg">
+<img src="path/to/image3.jpg">
+<img src="path/to/image4.jpg">
+
+<div class='board-component'> <!-- next board component -->
+[https://stackoverflow.com/questions/73642710/closing-div-tag-is-being-outputted-to-early-in-a-while-loop-php]
