@@ -18,3 +18,19 @@ Follow MO-148 N and IA-148 N to Pollock Blvd in Bedford
 * Olson/Linn Museum
 * Burlington Northern Museum
 
+
+![Aboutme.md](Aboutme)
+
+---
+Creating a table
+#### coolest places on the earth
+
+|name of the city        | important location        |time to spent|
+
+|Newyork                 |Atlantic Ocean             |13hours      |
+
+|Washington, DC          |Potomac River              |15hours      |
+
+|Boston                  |Massachusetts              |18hours      |
+
+|Jackson                 |Mississippi                |24hours      |
