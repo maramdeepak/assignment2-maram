@@ -7,11 +7,12 @@ The **Smithsonian National Museum of American History** tells the story of the U
 
 ---
 # DIRECTION OF MUSEUM
-Taylor County Historical Museum
-Head west toward E 7th St
-Turn left onto N Depot St
-Continue onto Jade Rd
-Follow MO-148 N and IA-148 N to Pollock Blvd in Bedford
+1. Taylor County Historical Museum
+2. Head west toward E 7th St
+3. Turn left onto N Depot St
+4. Continue onto Jade Rd
+5. Follow MO-148 N and IA-148 N to Pollock    
+6. in Bedford
 
 * Nodaway Valley Historical Museum
 * Glnn Miller Birthplace Museum
