@@ -38,16 +38,19 @@ Quote section
 > What, drawn, and talk of peace? *Romeo*
 
 ---
-Code fencing
-> Closing </div> Tag Is Being Outputted To Early In A While Loop
+# Code fencing
 
-<div class='board-component'>
-    <h2>The Board Name</h2>
-    <img src="path/to/image1.jpg">
-</div> <!-- the component closes here after the 1st image, instead of after the 4th image -->
-<img src="path/to/image2.jpg">
-<img src="path/to/image3.jpg">
-<img src="path/to/image4.jpg">
+> I've seen many tutorials online that says you need to check $_SERVER['HTTPS'] if the server is connection is secured with HTTPS. My problem is that on some of the servers I use, $_SERVER['HTTPS'] is an undefined variable that results in an error. Is there another variable I can check that should always be defined?
 
-<div class='board-component'> <!-- next board component -->
-[https://stackoverflow.com/questions/73642710/closing-div-tag-is-being-outputted-to-early-in-a-while-loop-php]
+<https://stackoverflow.com/questions/1175096/how-to-find-out-if-youre-using-https-without-serverhttps>
+
+```
+if (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off'
+    || $_SERVER['SERVER_PORT'] == 443) {
+  // HTTPS
+} else {
+  // HTTP
+}
+```
+
+<https://css-tricks.com/snippets/php/http-or-https/>
